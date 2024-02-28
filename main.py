@@ -1,6 +1,5 @@
 import pandas as pd
 from tkinter import *
-import pyglet
 
 AMARELO = '#FBA834'
 AZUL = '#387ADF'
